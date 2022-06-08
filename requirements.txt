@@ -1,0 +1,5 @@
+tensorflow
+numpy
+streamlit
+Image
+requests
